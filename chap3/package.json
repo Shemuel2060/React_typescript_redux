@@ -1,0 +1,17 @@
+
+{
+      "type": "module",
+  "name": "es6-features",
+  "version": "1.0.0",
+  "description": "ES6 features for better JS apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "typescript": "^5.2.2"
+  }
+}
